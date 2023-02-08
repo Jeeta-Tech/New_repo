@@ -1,0 +1,41 @@
+The Sales Dev Process
+step 1: CSA will work with sales dev team for the sales proposal.
+Step 2: CSA team will work on data to check whether we can provide the details by writing algorithims then they will share the details to us.
+Step 3: Prognos team will work on the algoririthms tp convert in code(within 5 days) and provide the details to CSA back.. CSA team will validate in case any data 
+mismatch found again they will again come back to us.
+Step 4: Prognos team will demonstrate to the sales dev team with their product/Services(counts).
+step 5: Send it to sales dev 
+step 6: Adjust your propsal business request.
+step 8 Deliver the product/services to the business.
+
+Who is sales Team:
+
+sales team will connect with client for the sale request, gather al the details from client to identified a best product.
+Then a request will updated in the master sheet.
+
+Sales Dev Request:
+Patient profiling: If a request is coming then we have to prepare a patient profile to verify the complexity
+Geogrophical perspective: here just count the patients test , how many patients, physician for better planning
+Test Evalution: exploration of data to know the pattern of clinical solution.
+Physician drill down:Analyze diffrent physician for improved target.
+Condition Exploration:Analize the exiting and new conditions for new better opp
+Effectiveness Analysis:Quantifying and analysing impact of our products 
+ 
+What is CSAs:
+It evaluates the content to complete devlopment of clinical algo which consist of logical order of test value ICDs code and test values
+Ds Team:DS team will process algo to convert machine label code and finally it generated record counts.
+
+Tools and Resources Used:
+Every Time before provide data to business we have to do Quality check 
+
+Sales Dev Workflow:
+CSA and sales Dev team will review the count if in case any mismatch found then they again reach out to DS team
+and after that final record will shared to client.
+ 
+Low complexity work can be done by ETL process.
+Extract the data transform the data then produce the counts and submit it to the client.
+
+Medium complexity work:
+Medium high complexity can be also done using ETL process.
+extract the data for datamart creation then produce the counts.
+  
