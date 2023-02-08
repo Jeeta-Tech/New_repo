@@ -1,0 +1,75 @@
+Healthcare Industry:-
+
+Pharmaceutical-Who makes drugs
+Biotechnology- it do research on the questions. both pharma and Biotech works on drugs clinical trial
+Medical Technology-Medical technology devices
+Healthcare Services- who provides services(doc, nurses and so on)
+
+Pharma value chain-
+Need in society:-
+Research-drougs/vaccine	
+Devlopment-
+Trial-
+Production
+Marketing/sale
+
+Intraction betn players:
+1.Patients
+2.Healthcare Provider(Doc,Nurse, PA, Hospital)
+3.Pharma company(from where we can take the drugs)
+4.Payers:(Who pay for us like insurance)
+5.Drugs Pharmacy(from where we buy drugs, they will instruct how to take the drugs)
+5.Pharma Sale person(medition representative)
+6.Account managers:who do classification of drugs 
+
+DTC-Direct to customer-America and NZ only ligal for both the country
+
+insurance claims-2 type close and open claims
+PBM-pharmacy benefit manager(3rd party which devloping and maintaing the formulary they will work for u)
+
+
+Prognos involement:-Patient data, pharmacy data, insurance data
+Prognos Role:Product called trigger which tells pharma company which doc they can reach out for their product.(list of docprognos will provide)
+             
+Drug discovery:-
+Target selection/validation
+Clinical trial
+Clinical phases-
+Drug Registration
+Marketing
+
+
+Clinical trial:
+IND-Investigating New Drugs
+NDA-New drugs approval
+
+meeting application
+phase1
+phase2 end of meeting
+phase3 pre NDA meting
+phase4
+file NDA
+Drug Approval
+
+Payers:
+Group HIP
+Indivual HIP
+
+Health care prgram
+CMS-center of medicare and medicaid services
+
+Medicare: for age 65 and above . center 
+Part A, Hospital charges and post discharge
+Part B - insurance, 
+Part C - Medicare adventage
+Part D- Drugs
+           
+
+
+medicaid: for needy and poor people . state govt
+all except drugs , diagonostic
+
+
+  
+
+
